@@ -36,6 +36,3 @@ ITC trades at **~20.1x P/E**, aligning closely with tobacco peers (~24x) rather 
 
 ## **Disclaimer**
 *This project is for academic and portfolio purposes only. It does not constitute professional investment advice. All data is based on publicly available information as of May 2026.*
-4. Click **Commit changes**.
-
-**Once you have this README live, your GitHub will look like it belongs to a professional Equity Research Associate. Ready to upload the files?**
