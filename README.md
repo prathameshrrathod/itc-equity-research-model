@@ -1,4 +1,4 @@
-# itc-equity-research-model
+# ITC-equity-research-model
 Comprehensive end to end equity research and financial model for ITC Ltd. Includes 5-year forecasting, DCF valuation, Relative Valuation, and a detailed Investment Summary.
 
 # ITC Ltd. - Equity Research & Financial Valuation Model (May 2026)
