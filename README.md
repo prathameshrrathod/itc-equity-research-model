@@ -33,6 +33,8 @@ ITC trades at **~20.1x P/E**, aligning closely with tobacco peers (~24x) rather 
 ## **File Structure**
 * `ITC_Limited_Equity_Research_Model.xlsx`: The live financial model including historicals, DCF, and Relative Valuation.
 * `ITC_Investment_Summary.png`: A one-page executive summary and valuation dashboard.
+* `ITC_Relative_Valuation.png`: Comparative analysis dashboard benchmarking ITC against sectoral peers in the FMCG and Tobacco industries.
+* `ITC_DCF_Analysis.png`: Detailed Free Cash Flow to Firm (FCFF) calculation, terminal value derivation, and WACC sensitivity analysis.
 
 ## **Disclaimer**
 *This project is for academic and portfolio purposes only. It does not constitute professional investment advice. All data is based on publicly available information as of May 2026.*
